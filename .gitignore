@@ -1,0 +1,8 @@
+mongo_data/
+src/
+trash/
+__pycache__/
+*.pyc
+.env
+.vscode/
+steam-sales-analysis/
