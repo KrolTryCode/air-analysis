@@ -1,0 +1,21 @@
+{
+  "name": "air-quality-analysis",
+  "version": "1.0.0",
+  "date": "2025-12-12T02:42:34.949440",
+  "size_bytes": 18588,
+  "size_mb": 0.02,
+  "checksum_sha256": "bc57d0152c21cd33b28eca0cf7438e94d9e409ac47e03a8a453769a78b7a7bb6",
+  "files_count": 16,
+  "python_version": "3.10+",
+  "dependencies": [
+    "pandas==2.1.4",
+    "numpy==1.26.2",
+    "matplotlib==3.8.2",
+    "seaborn==0.13.0",
+    "pymongo==4.6.1",
+    "requests==2.31.0",
+    "tqdm==4.66.1",
+    "pmdarima==2.0.4",
+    "statsmodels==0.14.1"
+  ]
+}
