@@ -4,7 +4,7 @@
 Склонируйте репозиторий и распакуйте дистрибутив:
 
 ```bash
-git clone [<url>](https://github.com/KrolTryCode/air-analysis.git)
+git clone https://github.com/KrolTryCode/air-analysis.git
 cd air-analysis
 ```
 При необходимости измените параметры в config.py
